@@ -1,0 +1,50 @@
+{
+	"users": [
+        {
+            "id": 1,
+            "name": "Brenda",
+            "dateJoined": 1630513631166,
+            "email": "brenda.long@nashvillesoftwareschool.com"
+          },
+          {
+            "id": 2,
+            "name": "Bryan",
+            "dateJoined": 1630513631183,
+            "email": "bryan@nashvillesoftwareschool.com"
+          },
+          {
+            "name": "Tyler",
+            "dateJoined": 1630513631183,
+            "email": "tyler@nashvillesoftwareschool.com",
+            "id": 4
+          },
+          {
+            "name": "Susie",
+            "dateJoined": 1630513631183,
+            "email": "susie@nashvillesoftwareschool.com",
+            "id": 5
+          },
+          {
+            "name": "Susie",
+            "dateJoined": 1630513631183,
+            "email": "susie@nashvillesoftwareschool.com",
+            "id": 6
+          },
+          {
+            "id": 7,
+            "name": "LD",
+            "email": "LDBartholomew@yahoo.com",
+            "dateJoined": 1630513868487
+
+         }
+    ],
+	"posts": [
+    {
+      "id":1,
+      "userID":1,
+      "title":"This is so so funny",
+      "imageURL":"https://media.giphy.com/media/sr8jYZVVsCmxddga8w/giphy.gif"
+    }
+  ],
+	"messages":[]
+}
